@@ -1,0 +1,49 @@
+Category,Wins 2014-2016,Wins 2014,Wins 2015,Wins 2016,Definition
+Losses,-1,-1,-1,-1,
+DEFRTG,-0.54,-0.47,-0.82,-0.68,Number of points allowed per 100 possesions by a team
+OPP PTS OFF TOV,-0.46,-0.43,-0.58,-0.37,Opponent points off turnovers
+OPP PTS FB,-0.35,-0.32,-0.54,-0.34,Opponent fast break points
+2pa,-0.32,-0.28,-0.51,-0.3,Two point attempts
+OPP PTS PAINT,-0.29,-0.28,-0.36,-0.21,Opponent points in the paint
+TOV,-0.28,-0.27,-0.36,-0.19,Turnovers 
+TOV%,-0.22,-0.2,-0.25,-0.19,Turn over percentage
+OREB,-0.15,-0.16,-0.22,-0.17,Offensive Rebounds
+PACE,-0.14,-0.15,-0.12,-0.16,Num of possesions per 48 minutes for a team
+OR_PACE,-0.12,-0.1,-0.07,-0.15,* Pace Adjusted Offensive Rebounds
+OPP PTS 2ND CHANCE,-0.1,-0.01,-0.04,-0.11,Opponent 2nd chance points
+FGA,-0.01,0,0,-0.09,Field Goal Attempts
+Wins,0,0.04,0.03,-0.05,
+season,0,0,0,-0.07,
+2pm,0.03,0.09,0.08,-0.05,2 points made
+2PM_PACE,0.08,0.1,0.11,-0.01,* Pace Adjusted 2pt made
+pts_off_tov,0.09,0.14,0.14,0,Points off turnovers
+pts_paint,0.1,0.17,0.24,0,Points in the paint
+UA_PACE,0.11,0.2,0.27,0.07,* Pace Adjusted Uncontested Assists
+UncontestedAssists,0.11,0.19,0.25,0.06,Assists that result in uncontested shots
+ufga,0.15,0.23,0.31,0.09,Num of FG att when shooter doesn't have a defender w/in 3.5 ft
+STL,0.16,0.24,0.33,0.1,Steals
+TO_RATIO,0.17,0.29,0.35,0.16,Turnovers per 100 possesions
+ufgm,0.18,0.3,0.37,0.21,Num of FG md when shooter doesn't have a defender w/in 3.5 ft
+AST%,0.24,0.3,0.4,0.26,Assists percentage
+REB,0.25,0.32,0.42,0.28,Rebounds
+BLK,0.28,0.33,0.42,0.28,Blocks
+STOCKS,0.29,0.46,0.43,0.32,* Steals plus Blocks
+3PA,0.3,0.46,0.46,0.34,3pt Attempts
+STOCKS_PACE,0.33,0.47,0.49,0.35,* Pace Adjusted for Steals and Blocks
+AST RAT,0.37,0.48,0.56,0.38,Assists per 100 possessions used
+AST/TO,0.43,0.61,0.6,0.41,Assist to TO Ratio - assists compared to turnovers commited
+DREB,0.43,0.48,0.6,0.4,Defensive Rebounds
+3PM,0.44,0.62,0.6,0.45,3 points made
+ufgp,0.46,0.67,0.62,0.5,Uncontested field goal percent
+DR_PACE,0.46,0.63,0.61,0.48,* Pace Adjusted Defensive Rebounds
+3PM_PACE,0.46,0.62,0.61,0.47,* Pace Adjusted 3pt made
+AST,0.49,0.68,0.64,0.51,Assists - passes that lead to made basket
+EFG%,0.52,0.69,0.65,0.51,Effec FG % adjusted for 3ptfg fg being 1.5 x more val than 2ptfg
+AST_PACE,0.53,0.73,0.66,0.63,* Pace Adjusted Assists
+FGM,0.53,0.72,0.65,0.53,Field Goals Made
+TS%,0.54,0.75,0.67,0.64,True Shooting percent - factors 3s & fts
+2p%,0.65,0.79,0.76,0.7,Two pt field goal percent
+3P%,0.65,0.79,0.73,0.67,Three point percent
+FG%,0.67,0.81,0.8,0.72,Field Goal percent
+NETRTG,0.73,0.81,0.97,0.95,Measures team pt diff per 100 possesions
++/-,0.97,0.98,0.98,0.96,Pt differential when player or team is on the floor
