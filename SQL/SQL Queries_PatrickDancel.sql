@@ -1,3 +1,5 @@
+-- Included in this markdown are samples of basic to advanced queries (nested queries, joins, etc.) that I wrote. 
+
 use sakila;
 
 -- 1a.
